@@ -1,0 +1,11 @@
+H:\dotnet\08高级内容\IdentityServer\IdentityServer4\ThirdPartyDemo\bin\Debug\netcoreapp2.1\ThirdPartyDemo.deps.json
+H:\dotnet\08高级内容\IdentityServer\IdentityServer4\ThirdPartyDemo\bin\Debug\netcoreapp2.1\ThirdPartyDemo.runtimeconfig.json
+H:\dotnet\08高级内容\IdentityServer\IdentityServer4\ThirdPartyDemo\bin\Debug\netcoreapp2.1\ThirdPartyDemo.runtimeconfig.dev.json
+H:\dotnet\08高级内容\IdentityServer\IdentityServer4\ThirdPartyDemo\bin\Debug\netcoreapp2.1\ThirdPartyDemo.dll
+H:\dotnet\08高级内容\IdentityServer\IdentityServer4\ThirdPartyDemo\obj\Debug\netcoreapp2.1\ThirdPartyDemo.csprojResolveAssemblyReference.cache
+H:\dotnet\08高级内容\IdentityServer\IdentityServer4\ThirdPartyDemo\obj\Debug\netcoreapp2.1\ThirdPartyDemo.csproj.CoreCompileInputs.cache
+H:\dotnet\08高级内容\IdentityServer\IdentityServer4\ThirdPartyDemo\obj\Debug\netcoreapp2.1\ThirdPartyDemo.AssemblyInfoInputs.cache
+H:\dotnet\08高级内容\IdentityServer\IdentityServer4\ThirdPartyDemo\obj\Debug\netcoreapp2.1\ThirdPartyDemo.AssemblyInfo.cs
+H:\dotnet\08高级内容\IdentityServer\IdentityServer4\ThirdPartyDemo\bin\Debug\netcoreapp2.1\ThirdPartyDemo.pdb
+H:\dotnet\08高级内容\IdentityServer\IdentityServer4\ThirdPartyDemo\obj\Debug\netcoreapp2.1\ThirdPartyDemo.dll
+H:\dotnet\08高级内容\IdentityServer\IdentityServer4\ThirdPartyDemo\obj\Debug\netcoreapp2.1\ThirdPartyDemo.pdb

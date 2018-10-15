@@ -1,0 +1,14 @@
+H:\dotnet\08高级内容\IdentityServer\IdentityServer4\ClientGredentialApi\bin\Debug\netcoreapp2.1\ClientGredentialApi.deps.json
+H:\dotnet\08高级内容\IdentityServer\IdentityServer4\ClientGredentialApi\bin\Debug\netcoreapp2.1\ClientGredentialApi.runtimeconfig.json
+H:\dotnet\08高级内容\IdentityServer\IdentityServer4\ClientGredentialApi\bin\Debug\netcoreapp2.1\ClientGredentialApi.runtimeconfig.dev.json
+H:\dotnet\08高级内容\IdentityServer\IdentityServer4\ClientGredentialApi\bin\Debug\netcoreapp2.1\ClientGredentialApi.dll
+H:\dotnet\08高级内容\IdentityServer\IdentityServer4\ClientGredentialApi\obj\Debug\netcoreapp2.1\ClientGredentialApi.csprojResolveAssemblyReference.cache
+H:\dotnet\08高级内容\IdentityServer\IdentityServer4\ClientGredentialApi\obj\Debug\netcoreapp2.1\ClientGredentialApi.csproj.CoreCompileInputs.cache
+H:\dotnet\08高级内容\IdentityServer\IdentityServer4\ClientGredentialApi\obj\Debug\netcoreapp2.1\ClientGredentialApi.RazorAssemblyInfo.cache
+H:\dotnet\08高级内容\IdentityServer\IdentityServer4\ClientGredentialApi\obj\Debug\netcoreapp2.1\ClientGredentialApi.RazorAssemblyInfo.cs
+H:\dotnet\08高级内容\IdentityServer\IdentityServer4\ClientGredentialApi\obj\Debug\netcoreapp2.1\ClientGredentialApi.AssemblyInfoInputs.cache
+H:\dotnet\08高级内容\IdentityServer\IdentityServer4\ClientGredentialApi\obj\Debug\netcoreapp2.1\ClientGredentialApi.AssemblyInfo.cs
+H:\dotnet\08高级内容\IdentityServer\IdentityServer4\ClientGredentialApi\obj\Debug\netcoreapp2.1\ClientGredentialApi.RazorTargetAssemblyInfo.cache
+H:\dotnet\08高级内容\IdentityServer\IdentityServer4\ClientGredentialApi\bin\Debug\netcoreapp2.1\ClientGredentialApi.pdb
+H:\dotnet\08高级内容\IdentityServer\IdentityServer4\ClientGredentialApi\obj\Debug\netcoreapp2.1\ClientGredentialApi.dll
+H:\dotnet\08高级内容\IdentityServer\IdentityServer4\ClientGredentialApi\obj\Debug\netcoreapp2.1\ClientGredentialApi.pdb
