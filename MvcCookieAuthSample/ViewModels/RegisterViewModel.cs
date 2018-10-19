@@ -4,16 +4,16 @@ namespace MvcCookieAuthSample.ViewModels
 {
     public class RegisterViewModel
     {
-        [Required]//必须的
-        [DataType(DataType.EmailAddress)]//内容检查是否为邮箱
+        [Required]
+        [DataType(DataType.EmailAddress)]
         public string Email { get; set; }
 
-        [Required]//必须的
-        [DataType(DataType.Password)]//内容检查是否为密码
+        [Required]
+        [DataType(DataType.Password)]
         public string Password { get; set; }
 
-        [Required]//必须的
-        [DataType(DataType.Password)]//内容检查是否为密码
+        [Required]
+        [DataType(DataType.Password)]
         public string ConfirmedPassword { get; set; }
     }
 }

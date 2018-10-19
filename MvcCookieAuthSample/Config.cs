@@ -10,6 +10,10 @@ namespace MvcCookieAuthSample
 {
     public class Config
     {
+        /// <summary>
+        /// 所以可以被访问的Resource
+        /// </summary>
+        /// <returns></returns>
         public static IEnumerable<ApiResource> GetApiResources()
         {
             return new List<ApiResource>
@@ -26,6 +30,10 @@ namespace MvcCookieAuthSample
                 new Client()
                 {
                     ClientId ="mvc",
+                    ClientName ="MyMvc",
+                    ClientUri="http://localhost:5001",
+                    LogoUri="https://chocolatey.org/content/packageimages/aspnetcore-runtimepackagestore.2.0.0.png",
+                    AllowRememberConsent =true,
                     AllowedGrantTypes = GrantTypes.Implicit,
                     ClientSecrets =
                     {
